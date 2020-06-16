@@ -20,11 +20,11 @@ name: Mug Jekyll theme
 title: Mug
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, mug, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/mug"
-domain_name: nandomoreira.me
+url: https://takagotch.github.io/
+baseurl: "page83/"
+domain_name: 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/mug
+repo: http://github.com/takagotch/page83
 disqus_shortname: "nandothemes"
 
 author:
