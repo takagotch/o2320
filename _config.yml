@@ -20,8 +20,8 @@ name: TKVTV
 title: 求人サイト。月収50万超え？？
 description: "求人サイト。月収50万超え？？"
 keywords: "TKVTV, theme, takagotch, free, download, SEO, blog, web"
-url: 
-baseurl: "https://takagotch.github.io/page83"
+url:      "https://takagotch.github.io/page83"
+baseurl: 
 domain_name: 
 # google_analytics: UA-52446115-1
 repo: http://github.com/takagotch/page83
