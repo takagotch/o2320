@@ -25,7 +25,7 @@ baseurl:  "/page83"
 domain_name:  
 # google_analytics: UA-52446115-1
 repo: http://github.com/takagotch/page83
-disqus_shortname: "nandothemes"
+disqus_shortname: "takagotch"
 
 author:
   name      : Takashi Yoshioka
