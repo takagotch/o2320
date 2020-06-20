@@ -20,9 +20,9 @@ name: TKVTV
 title: 求人サイト。月収50万超え？？
 description: "求人サイト。月収50万超え？？"
 keywords: "TKVTV, theme, takagotch, free, download, SEO, blog, web"
-url:      "https://takagotch.github.io/page83"
-baseurl: 
-domain_name: 
+url:      "https://takagotch.github.io"
+baseurl:  "/page83"
+domain_name:  
 # google_analytics: UA-52446115-1
 repo: http://github.com/takagotch/page83
 disqus_shortname: "nandothemes"
@@ -30,13 +30,13 @@ disqus_shortname: "nandothemes"
 author:
   name      : Takashi Yoshioka
   image     : /assets/images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  facebook  : http://facebook.com/fernando.dev
-  twitter   : http://twitter.com/nandomoreirame
-  instagram : http://instagram.com/nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : takagotch.me@gmail.com
+  url       : http://takagotch.github.io
+  facebook  : http://facebook.com/takagotch
+  twitter   : http://twitter.com/takagotch
+  instagram : http://instagram.com/takagotch
+  github    : http://github.com/takagotch
+  linkedin  : http://linkedin.com/in/takagotch
   bio       : "Desenvolvedor Front-end/Wordpress entusiasta de performance, design responsivo e usabilidade, sempre em busca do melhor projeto e de um bom café."
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
